@@ -16,7 +16,7 @@ export const ChatWindow = () => {
     <SChatWindow>
       <SChatHeader>
         <SProfileImg>
-          <img src="/public/bot-logo.png" alt="bot logo" />
+          <img src="/src/shared/assets/img/bot-logo.png" alt="bot logo" />
         </SProfileImg>
         <SProfileInfo>
           <div>ВШЭ бот</div>

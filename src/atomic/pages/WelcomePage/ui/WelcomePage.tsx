@@ -14,7 +14,7 @@ const WelcomePage = () => {
     <SPageWrapper>
       <SWelcomeTitle>
         <SWelcomeImg>
-          <img src="/public/bot-logo.png" alt="bot logo" />
+          <img src="/src/shared/assets/img/bot-logo.png" alt="bot logo" />
         </SWelcomeImg>
         <SWelcomeTitleText>Умный помощник ВШЭ</SWelcomeTitleText>
       </SWelcomeTitle>

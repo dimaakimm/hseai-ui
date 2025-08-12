@@ -1,1 +1,1 @@
-export * from "./ArrowUp.tsx";
+export * from "./svg/ArrowUp.tsx";
